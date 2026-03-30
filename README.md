@@ -7,7 +7,6 @@
 
 __University of Information Technology_
 - DS108 Pre-processing and Constructing Dataset
-- DS102 Statistical Machine Learning
 - IE105 Introduction to information assurance and security
 
 <h2>💡 I'm Currently Working</h2>
