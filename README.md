@@ -3,18 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunf299&label=Profile%20views&color=0e75b6&style=flat" alt="hunf299" /> </p>
 
-<h2>💻 I'm Currently Learning</h2>
-
-__University of Information Technology_
-- DS108 Pre-processing and Constructing Dataset
-- IE105 Introduction to information assurance and security
-
-<h2>💡 I'm Currently Working</h2>
-
-- 🔭 I’m currently working on [flight delays spread prediction](https://github.com/hunf299/DS108_AeroDelay)
-
-- 🔭 I’m currently working on [severity prediction in software bug reports](https://github.com/hunf299/IE105_ExtendingSoftwareBugDatasets)
-
 - 🌱 I’m currently learning **PyTorch, Apache Kafka, Spark, NLTK, Sentence-Transformers, Scikit-learn**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hunf299?tab=repositories](https://github.com/hunf299?tab=repositories)
