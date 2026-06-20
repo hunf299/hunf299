@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunf299&label=Profile%20views&color=0e75b6&style=flat" alt="hunf299" /> </p>
 
----
-
 ### 👨‍💻 About me
 
 I'm a Data Science student at **University of Information Technology (UIT) - Vietnam National University Ho Chi Minh**, K19, passionate about data science and AI. I’m currently learning **PyTorch, Apache Kafka, Spark, NLTK, Sentence-Transformers, Scikit-learn**. A digital-era native with a lifelong passion for data and technology. Since secondary school, I have been dedicated to pursuing a career in technology, a goal that drove years of rigorous self-study and programming pursuits.
